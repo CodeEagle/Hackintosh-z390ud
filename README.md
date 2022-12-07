@@ -8,6 +8,6 @@
 - Advanced Mode > Settings > IO Ports > USB Configuration > XHCI Hand-off > Enabled
 - Advanced Mode > Boot > CSM Support > Disabled
 - Settings > IO Ports > Super IO Configuration > Serial Port > Disabled
-- Boot > CFG Lock > Disabled
+- ~~Boot > CFG Lock > Disabled~~
 - Boot> Operating System>Windows 8/10
-- IGPU - >Disabled
+- ~~IGPU - >Disabled~~
